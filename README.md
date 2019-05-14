@@ -13,4 +13,4 @@ This project includes a Homepage and a Resume.
 Fork it if you like :)
 
 # Contributing
-Just me 
+Just me
